@@ -18,7 +18,7 @@ const Header = () => {
         </div>
         <p>Open Source dev tool to visualize the architecture of your React code</p>
         <div>
-        <GoMarkGithub style={{paddingRight: 10}}/> 
+        <GoMarkGithub style={{paddingRight: 10 }}/> 
           <a
             className="githubLink"
             href="https://github.com/oslabs-beta/HiFiber"

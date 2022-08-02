@@ -88,6 +88,7 @@
     margin: 10px;
     gap: 7px;
     cursor: pointer;
+    font-size: large;
 }
 
 .avatarIcons > a:hover {

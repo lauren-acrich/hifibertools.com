@@ -1,0 +1,105 @@
+
+.header {
+    background-color: #2e2f30;
+    min-height: 36vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: whitesmoke;
+}
+
+.header > p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.githubBtn {
+    color: whitesmoke;
+    background-color: #2e2f30;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.githubBtn:hover {
+    background-color: rgb(174, 0, 255);
+}
+
+
+.linkedInBtn {
+    color: whitesmoke;
+    background-color: #2e2f30;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.linkedInBtn:hover {
+    background-color: rgb(174, 0, 255);
+    
+}
+
+.body {
+    display: flex;
+    background-color: rgb(36, 53, 109);
+    min-height: 50vh;
+}
+
+.footerHeader {
+    background-color: #2e2f30;
+    font-size: 28px;
+    color: whitesmoke;
+    padding: 20px;
+    display: flex;
+    justify-content: center; 
+    object-fit: fill;
+}
+
+.footerContainer {
+    background-color: #2e2f30;
+    min-height: 20vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.avatarContainer > img {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 8px;
+    display: flex;
+}
+
+.avatarContainer > p {
+    color: whitesmoke;
+    display: flex;
+    font-size: 16px;
+    font-weight: 350;
+    justify-content: center;
+}
+
+.avatarIcons {
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
+    margin: 10px;
+    gap: 7px;
+}
+
+.closingTag {
+    background-color: #2e2f30;
+    color: rgb(142, 140, 140);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+
+   
+    

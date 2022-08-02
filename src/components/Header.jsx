@@ -16,7 +16,7 @@ const Header = () => {
           }}
           src={HiFiberLogo} alt="logo" />
         </div>
-        <p>Open Source dev tool to visualize the React fiber tree</p>
+        <p>Open Source dev tool to visualize the architecture of your React code</p>
         <div>
         <GoMarkGithub style={{paddingRight: 10}}/> 
           <a

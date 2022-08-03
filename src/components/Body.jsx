@@ -3,7 +3,7 @@ import React from 'react'
 const Body = () => {
   return (
     <div className="body">
-      <h2>This is the body</h2>
+      <h2>What problem does this tool solve?</h2>
     </div>
   )
 }

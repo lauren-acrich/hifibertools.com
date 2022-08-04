@@ -19,10 +19,8 @@ function DemoText() {
         <br />
         <br />
         <br />
-        <br />
         <div className="featuresToCome">
           <strong>Features to come</strong>
-          
             <li>Error handling to display components that are unnecessarily re-rendering and causing slowdown in performace. This will serve as an invaluable debugging tool.</li>
             <li>Measure performance metrics - including Fiber node duration, re-render time/count, and various other useful Fiber properties.</li>
         </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import gif from '../images/demoLoopCrop.gif';
+import gif from '../images/demoLoopCropFinal.gif';
 import DemoText from './DemoText';
 
 const Body = () => {

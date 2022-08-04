@@ -6,11 +6,15 @@ function DemoText() {
       <div className="demoText">
         <h1>Features</h1>
         <div>
-          Our tool accesses the components of your React16+ application via the React fiber tree and maps out a hierarchical structure of component relationships.
+          Our tool accesses the components of your React16+ application via the React fiber tree and maps out a hierarchical structure of component relationships. 
         </div>
         <br />
         <div>
-          Developers are able to quickly identify components that unnecessarily re-render and cause slowdown in performace, serving as an invaluable debugging tool.
+          Developers are able to quickly identify components that unnecessarily re-render and cause slowdown in performace, serving as an invaluable debugging tool. 
+        </div>
+        <br />
+        <div>
+          The modal popup contains useful Fiber node properties such as component type, line number in codebase, and parent node. 
         </div>
         <br />
         <div>
@@ -21,8 +25,8 @@ function DemoText() {
         
         <div className="featuresToCome">
           <strong>Features to come</strong>
-            <li>Error handling to display components that are unnecessarily re-rendering and causing slowdown in performace. This will serve as an invaluable debugging tool.</li>
-            <li>Measure performance metrics - including Fiber node duration, re-render time/count, and various other useful Fiber properties.</li>
+            <li>Live error handling to display Fiber nodes that are unintentionally re-rendering</li>
+            <li>Measure performance metrics - including Fiber node duration, re-render time/count, and various other useful properties.</li>
         </div>
       </div>
     </div>

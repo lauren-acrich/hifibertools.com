@@ -1,7 +1,7 @@
 
 .header {
     background-color: #2e2f30;
-    min-height: 36vh;
+    min-height: 40vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -41,9 +41,37 @@
 
 .body {
     display: flex;
-    background-color: rgb(36, 53, 109);
-    min-height: 50vh;
+    background-color: #1e1e1e;
+    border: solid rgba(128, 128, 128, 0.719);
+    border-width: 2px;
 }
+
+
+.demoContainer {
+    display: flex;
+    flex-direction: column;
+    transform: scale(0.8);
+    
+}
+
+.demoContainer > img {
+    margin-top: -101px;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    border: solid magenta;
+}
+
+.demoText {
+    color: whitesmoke;
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 300px;
+    border:solid rgb(174, 0, 255); */
+}  
 
 .footerHeader {
     background-color: #2e2f30;

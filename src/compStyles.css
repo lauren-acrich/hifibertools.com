@@ -49,7 +49,7 @@
 .demoContainer {
     display: flex;
     transform: scale(0.8);
-    margin-bottom: -50px;
+    margin-bottom: -70px;
     margin-left: 50px;
     width: 70%;
     align-items: start;

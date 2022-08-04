@@ -8,7 +8,7 @@ const Body = () => {
     <>
       <div className="body">
         <div className="demoContainer">
-          <img src={gif} alt="demo" />
+          <img className="demoGIF" src={gif} alt="demo" />
         </div>
         <DemoText />
       </div>

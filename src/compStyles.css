@@ -52,7 +52,8 @@
     margin-bottom: -70px;
     margin-left: 50px;
     width: 70%;
-    align-items: start;
+    /* align-items: start; */
+    align-items: flex-start;
 }
 
 .demoGIF {
